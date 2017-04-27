@@ -1,0 +1,81 @@
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+C:\Documents and Settings\user\Desktop\Q B 1\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+\\bassstr\pupilhome$\00mifsudj\Downloads\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Customers.resources
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Customers.resources
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.vbproj.GenerateResource.Cache
+C:\Users\jake\Desktop\Sample Assessment-20170306T112745Z-001\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Customers.resources
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+H:\Downloads\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.vbproj.GenerateResource.Cache
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Customers.resources
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.vbproj.GenerateResource.Cache
+C:\Users\jake\Desktop\Sample Assessment2\Sample Assessment\vb net\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Customers.resources
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+\\bassstr\pupilhome$\00mifsudj\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Customers.resources
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+H:\Downloads\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.vbproj.GenerateResource.Cache
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.exe
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.xml
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.pdb
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.exe
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.pdb
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\bin\Debug\Activities.frm.xml
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Details.resources
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Customers.resources
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.Resources.resources
+H:\A level\Computing\Candidate-20170424T073621Z-001-20170427T080618Z-001\Candidate-20170424T073621Z-001\Candidate\Activities.frm\obj\x86\Debug\Activities.frm.vbproj.GenerateResource.Cache
